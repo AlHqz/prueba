@@ -1,0 +1,15 @@
+C:\Users\aleja\source\repos\Proyecto\Proyecto\bin\Release\Proyecto.exe.config
+C:\Users\aleja\source\repos\Proyecto\Proyecto\bin\Release\Proyecto.exe
+C:\Users\aleja\source\repos\Proyecto\Proyecto\bin\Release\Proyecto.pdb
+C:\Users\aleja\source\repos\Proyecto\Proyecto\obj\Release\Proyecto.Form1.resources
+C:\Users\aleja\source\repos\Proyecto\Proyecto\obj\Release\Proyecto.FormIndicaciones.resources
+C:\Users\aleja\source\repos\Proyecto\Proyecto\obj\Release\Proyecto.Properties.Resources.resources
+C:\Users\aleja\source\repos\Proyecto\Proyecto\obj\Release\Proyecto.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\Proyecto\Proyecto\obj\Release\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\Proyecto\Proyecto\obj\Release\Proyecto.exe
+C:\Users\aleja\source\repos\Proyecto\Proyecto\obj\Release\Proyecto.pdb
+C:\Users\aleja\source\repos\Proyecto\Proyecto\obj\Release\Proyecto.App.resources
+C:\Users\aleja\source\repos\Proyecto\Proyecto\bin\Release\Proyecto.exe.manifest
+C:\Users\aleja\source\repos\Proyecto\Proyecto\bin\Release\Proyecto.application
+C:\Users\aleja\source\repos\Proyecto\Proyecto\obj\Release\Proyecto.exe.manifest
+C:\Users\aleja\source\repos\Proyecto\Proyecto\obj\Release\Proyecto.application
